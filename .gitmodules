@@ -9,4 +9,4 @@
 	url = https://github.com/AgileBits/onepassword-extension.git
 [submodule "Carthage/Checkouts/particle-sdk-ios"]
 	path = Carthage/Checkouts/particle-sdk-ios
-	url = https://github.com/spark/particle-sdk-ios.git
+	url = https://github.com/particle-iot/particle-sdk-ios.git

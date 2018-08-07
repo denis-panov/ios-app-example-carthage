@@ -1,3 +1,2 @@
-github "spark/particle-setup-ios" ~> 0.8.0
-
+github "particle-iot/particle-setup-ios" ~> 0.9.0
 
